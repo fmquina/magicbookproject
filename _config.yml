@@ -22,10 +22,10 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: Pore Over the Pages 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: "An Exhibit on The Book & _Magic: the Gathering_"
+tagline: "An Exhibit on The Book & 'Magic: the Gathering'"
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A digital exhibit on the intersections of The Book and the collectible card game, _Magic: the Gathering_"
+description: "A digital exhibit on the intersections of The Book and the collectible card game, 'Magic: the Gathering'"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Francis Quina
 
