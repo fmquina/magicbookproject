@@ -3,25 +3,23 @@ title: About
 layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
-credits: true
+credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
+{% include feature/jumbotron.html padding="50px" heading=false text=false objectid="/objects/soi-79-pore-over-the-pages.jpg" %}
+## About 
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+*Pore Over the Pages* was created by [Francis Quina](https://www.english.pitt.edu/people/francis-quina) for the course Making and Unmaking the Book, which was taught by [Dr. Jennifer Waldron](https://www.english.pitt.edu/people/jennifer-waldron) at the [University of Pittsburgh](https://www.english.pitt.edu), Fall 2024.
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+The card images were taken from [Scryfall.com](https://scryfall.com). Use of the card images, all of which belong to the game publisher Wizards of the Coast, is in accordance with the company's fan content policy, which are outlined [here](https://company.wizards.com/en/legal/fancontentpolicy).
 
-## About the Collection
+The artists, whose illustrations appear in the cards, are identified in each item page.
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+The source for book cover images are listed on each item page, as are the copyright information for these images.
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+The project was built using [CollectionBuilder](https://collectionbuilder.github.io) and hosted on [GitHub Pages](https://pages.github.com/).
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+---
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+{% include feature/jumbotron.html padding="50px" heading=false text=false objectid="/objects/soi-79-pore-over-the-pages.jpg" %}
