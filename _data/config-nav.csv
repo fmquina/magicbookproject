@@ -1,7 +1,12 @@
 display_name,stub,dropdown_parent
 Home,/
-Exhibit,/exhibit.html
-Subjects,/subjects.html
-Timeline,/timeline.html
-Browse,/browse.html
+Exhibit,,
+Magic the Gathering,/mtg.html,Exhibit
+Tablet,/tablet.html,Exhibit
+Scroll,/scroll.html,Exhibit
+Codex,/codex.html,Exhibit
+Collection,,
+Browse,/browse.html,Collection
+Subjects,/subjects.html,Collection
+Timeline,/timeline.html,Collection
 About,/about.html

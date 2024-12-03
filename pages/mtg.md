@@ -1,10 +1,9 @@
 ---
-title: Exhibit
+title: Magic the Gathering
 layout: about
-permalink: /exhibit.html
+permalink: /mtg.html
 ---
-
-## *Magic: the Gathering* & collectible card games
+# *Magic: the Gathering*
  
 *Magic: the Gathering* is a collectible card game created by Richard Garfield and was first published in 1993. MTG, as it is known to its players, is acknowledged as the first collectible card game or CCG, and has since given rise to a new genre of card games which include the *Pokemon Trading Card Game* and *Yu-Gi-Oh!*
 
@@ -20,3 +19,6 @@ Because of the size of the card pool and the nature by which players can acquire
 MTG, on the other hand, is played in a variety of so-called formats using a shared card pool and rules governing the game mechanic interaction. For example, MTG can be played in a sealed format, where two players each open a number of booster packs and then create a deck from the cards that they managed to get from those said packs. Another way of playing MTG is taking all the cards you own and from that pool constructing a deck based on some restriction agreed upon by the players. 
 
 {% include feature/image.html objectid="mbp002" width="50" %}
+
+---
+{% include feature/jumbotron.html padding="50px" heading=false text=false objectid="/objects/soi-79-pore-over-the-pages.jpg" %}
