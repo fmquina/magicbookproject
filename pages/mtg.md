@@ -3,22 +3,17 @@ title: Magic the Gathering
 layout: about
 permalink: /mtg.html
 ---
-# *Magic: the Gathering*
+# The Game - *Magic: the Gathering*
  
-*Magic: the Gathering* is a collectible card game created by Richard Garfield and was first published in 1993. MTG, as it is known to its players, is acknowledged as the first collectible card game or CCG, and has since given rise to a new genre of card games which include the *Pokemon Trading Card Game* and *Yu-Gi-Oh!*
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed congue ultricies lectus id vehicula. Vivamus nec erat nisi. Donec tristique in nibh et pretium. Ut ornare lorem at sagittis bibendum. Sed a porttitor diam. Nullam sit amet felis ex. Pellentesque bibendum massa ac elementum viverra. Proin vitae sem tincidunt enim luctus egestas ac et urna. Integer ac euismod mi. Suspendisse sed laoreet lectus, et vehicula tortor. Donec mi sapien, bibendum ac eros quis, egestas ultricies lectus.
 
-{% include feature/image.html objectid="mbp001" width="50" %}
+{% include feature/video.html objectid="https://www.youtube.com/watch?v=pISs64CG6Tg" width="50" caption="youtube caption" %}
 
-Collectible card games are different from other card games in that players do not have immediate access to all the cards used in the game. Where other card games can be purchased in its entirety, CCGs are bought in booster packs that contain a random assortment of game cards. These game cards by themselves are also sorted by rarity, so some cards may appear in a pack more often than other cards. 
-
-This intentional scarcity makes the game unpredictable for players, and at the same time, encourages players and enthusiasts to try and collect the cards, whether to play with them, or to just complete the set.
-
-These games are also constantly updated by the addition of new sets of cards. In the case of MTG, a new set of cards is released every few months to add to the game's card pool. To date, the game has over 27,000 individual cards across more than 70 expansions, with the latest one being released in November 2024.
-Because of the size of the card pool and the nature by which players can acquire these cards, it is better to think of MTG (and CCGs, in general) as “game systems” rather than individual games. A game like Uno, for example, can only be played one specific way, the cards working only within the established rules of the game. 
-
-MTG, on the other hand, is played in a variety of so-called formats using a shared card pool and rules governing the game mechanic interaction. For example, MTG can be played in a sealed format, where two players each open a number of booster packs and then create a deck from the cards that they managed to get from those said packs. Another way of playing MTG is taking all the cards you own and from that pool constructing a deck based on some restriction agreed upon by the players. 
+Morbi ac justo id ligula faucibus pellentesque vel at ex. Etiam tempor sem at laoreet elementum. Nulla at velit eget velit aliquet pulvinar in eget velit. In mattis magna et mauris efficitur posuere. Sed dictum elit neque, eget pellentesque felis volutpat a. Nulla quis orci eget nisl euismod semper et quis lectus. Donec vulputate condimentum nibh eu mollis. Aliquam erat volutpat. 
 
 {% include feature/image.html objectid="mbp002" width="50" %}
+
+Vivamus non nulla nec leo egestas placerat. Maecenas venenatis eget risus a iaculis. Praesent enim velit, cursus ac commodo tempus, porta sit amet ante. Etiam aliquam ornare odio sit amet vulputate. Pellentesque id risus a arcu tempor tincidunt quis et justo. Morbi consequat pulvinar nisl eu tincidunt. Nam tincidunt tortor urna, ut accumsan est eleifend vitae. Maecenas justo risus, suscipit nec aliquet id, dignissim ac elit. Nunc bibendum, justo in aliquam commodo, metus libero convallis diam, eget fringilla mauris magna at felis. Nullam feugiat turpis ut massa maximus luctus. Vivamus dictum egestas magna in suscipit. Suspendisse eleifend eleifend felis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum id nibh risus. Sed in euismod arcu, sed accumsan nisi.
 
 ---
 {% include feature/jumbotron.html padding="50px" heading=false text=false objectid="/objects/soi-79-pore-over-the-pages.jpg" %}
