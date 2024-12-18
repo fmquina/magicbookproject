@@ -1,21 +1,45 @@
 ---
-title: Scroll
+title: The Scroll
 layout: about
 permalink: /scroll.html
 ---
-# The Scroll in *Magic: the Gathering*
+## The Scroll in *Magic: the Gathering*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed congue ultricies lectus id vehicula. Vivamus nec erat nisi. Donec tristique in nibh et pretium. Ut ornare lorem at sagittis bibendum. Sed a porttitor diam. Nullam sit amet felis ex. Pellentesque bibendum massa ac elementum viverra. Proin vitae sem tincidunt enim luctus egestas ac et urna. Integer ac euismod mi. Suspendisse sed laoreet lectus, et vehicula tortor. Donec mi sapien, bibendum ac eros quis, egestas ultricies lectus.
+As an earlier form of the Book, the use of the scroll in our world was eventually supplanted by the bound, paginated form of the codex. Similarly, in the multiversal setting of *Magic: the Gathering*, the scroll, like the tablet, is sometimes presented in connection to writings from the past. 
 
-{% include feature/image.html objectid="mbp003;mbp006;mbp041;mbp042;" %}
+"Scroll of Origins" and "Scroll of the Masters" certainly gives the impression that the writing contained in them come from the ancients.
 
-{% include feature/image.html objectid="mbp043;mbp044;mbp045;mbp046;" %}
+{% include feature/image.html objectid="mbp043;mbp042" %}
 
-Morbi ac justo id ligula faucibus pellentesque vel at ex. Etiam tempor sem at laoreet elementum. Nulla at velit eget velit aliquet pulvinar in eget velit. In mattis magna et mauris efficitur posuere. Sed dictum elit neque, eget pellentesque felis volutpat a. Nulla quis orci eget nisl euismod semper et quis lectus. Donec vulputate condimentum nibh eu mollis. Aliquam erat volutpat.
+It is notable, however, that in the game's Asian-inspired planes such Kamigawa (Japan) and Tarkir (East Asia), the scroll appears to still be the primary form of the book in their present. There are even characters on these planes whose primary identities are bound with the scroll, such as "Azami, Lady of Scrolls" and "Minamo Scrollkeeper."  
 
-{% include feature/image.html objectid="mbp047;mbp048;mbp073;mbp081;" %}
+{% include feature/image.html objectid="mbp149;mbp150" %}
 
-Vivamus non nulla nec leo egestas placerat. Maecenas venenatis eget risus a iaculis. Praesent enim velit, cursus ac commodo tempus, porta sit amet ante. Etiam aliquam ornare odio sit amet vulputate. Pellentesque id risus a arcu tempor tincidunt quis et justo. Morbi consequat pulvinar nisl eu tincidunt. Nam tincidunt tortor urna, ut accumsan est eleifend vitae. Maecenas justo risus, suscipit nec aliquet id, dignissim ac elit. Nunc bibendum, justo in aliquam commodo, metus libero convallis diam, eget fringilla mauris magna at felis. Nullam feugiat turpis ut massa maximus luctus. Vivamus dictum egestas magna in suscipit. Suspendisse eleifend eleifend felis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum id nibh risus. Sed in euismod arcu, sed accumsan nisi.
+Outside of these Asian-inspired planes, however, the scroll seems to appear in very particular contexts such as trade, politics, religion, cartography, and engineering. The cards "Contract from Below" and "Merchant Scroll" represent the transactional utility of the scroll. 
+
+{% include feature/image.html objectid="mbp003;mbp048" %}
+
+"Armistice" and "Bargaining Table" shows the scrolls as being a part of political and mercantile negotiations.
+
+{% include feature/image.html objectid="mbp175;mbp176" %}
+
+The scroll also appears in the game as a container of divine texts, as in the "Scroll of Avacyn," or infernal texts as in the "Scroll of Griselbrand".
+
+{% include feature/image.html objectid="mbp047;mbp045" %}
+
+The cards "Cartography" and "Cartographer's Survey" show the scroll as the ideal medium for map-making or cartography.
+
+{% include feature/image.html objectid="mbp152;mbp153" %}
+
+Finally, "Gerrard's Wisdom" and "Nimblewright Schematic" highlights the use of the scroll for blueprints and schematics.
+
+{% include feature/image.html objectid="mbp156;mbp177" %}
+
+It goes without saying, of course, that scroll, like all the other forms of the Book that exists within the *Magic: the Gathering* multiverse, can also have magical properties, or give those who wield them powerful abilities such as seen in "Twinscroll Shaman".
+
+{% include feature/image.html objectid="mbp179" %}
+
+{% include feature/button.html text="Go to the next page" link="/book.html" color="dark" align="center" %}
 
 ---
 {% include feature/jumbotron.html padding="50px" heading=false text=false objectid="/objects/soi-79-pore-over-the-pages.jpg" %}

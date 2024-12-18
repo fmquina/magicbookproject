@@ -4,7 +4,9 @@ layout: about
 permalink: /about.html
 # Look in _includes/feature for options to easily add features to the page
 ---
-# About the Project
+## About the Project
+
+{% include feature/image.html objectid="mbp162" caption="The card 'Pore Over the Pages' which was the source of this exhibit's title." width=30px %}
 
 *Pore Over the Pages* was created by [Francis Quina](https://www.english.pitt.edu/people/francis-quina) for the course "Making and Unmaking the Book" taught by [Dr. Jennifer Waldron](https://www.english.pitt.edu/people/jennifer-waldron) at the [University of Pittsburgh](https://www.english.pitt.edu), Fall 2024.
 

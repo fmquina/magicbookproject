@@ -1,10 +1,10 @@
 display_name,stub,dropdown_parent
 Home,/
 Exhibit,,
-The Game,/mtg.html,Exhibit
-Tablet,/tablet.html,Exhibit
-Scroll,/scroll.html,Exhibit
-Codex,/codex.html,Exhibit
+Introduction,/overview.html,Exhibit
+The Tablet,/tablet.html,Exhibit
+The Scroll,/scroll.html,Exhibit
+The Book,/book.html,Exhibit
 Collection,,
 Browse,/browse.html,Collection
 Subjects,/subjects.html,Collection
