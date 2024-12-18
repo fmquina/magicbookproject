@@ -39,7 +39,7 @@ It goes without saying, of course, that scroll, like all the other forms of the 
 
 {% include feature/image.html objectid="mbp179" %}
 
-{% include feature/button.html text="Go to the next page" link="/book.html" color="dark" align="center" %}
+{% include feature/button.html text="Go to the next page" link="/magicbookproject/book.html" color="dark" align="center" %}
 
 ---
 {% include feature/jumbotron.html padding="50px" heading=false text=false objectid="/objects/soi-79-pore-over-the-pages.jpg" %}

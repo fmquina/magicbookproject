@@ -21,7 +21,7 @@ If you would like to know more about *Magic: the Gathering* and how it is played
 
 {% include feature/video.html objectid="https://www.youtube.com/watch?v=pISs64CG6Tg" width="50" caption="Video produced by The Command Zone & Wizards of the Coast" %}
 
-{% include feature/button.html text="Go to the next page" link="/tablet.html" color="dark" align="center" %}
+{% include feature/button.html text="Go to the next page" link="/magicbookproject/tablet.html" color="dark" align="center" %}
 
 ---
 {% include feature/jumbotron.html padding="50px" heading=false text=false objectid="/objects/soi-79-pore-over-the-pages.jpg" %}

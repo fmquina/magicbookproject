@@ -31,7 +31,7 @@ Illustrated by the artist Christopher Moeller, cards featured illustrations of h
 
 There were five cards in the original card cycle, one for each of the representative colors of magic in the game. In 2007, a new green card was added to the cycle, with Moeller returning as illustrator.
 
-{% include feature/button.html text="Go to the next page" link="/scroll.html" color="dark" align="center" %}
+{% include feature/button.html text="Go to the next page" link="/magicbookproject/scroll.html" color="dark" align="center" %}
 
 ---
 {% include feature/jumbotron.html padding="50px" heading=false text=false objectid="/objects/soi-79-pore-over-the-pages.jpg" %}
